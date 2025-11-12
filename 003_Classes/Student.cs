@@ -17,5 +17,13 @@ namespace _003_Classes
         {
             Console.WriteLine($"Name: {name} | Surname: {surname} | Age: {age}");
         }
+        public Student(string name, string surname, int age)
+        {
+            this.name = name;
+            this.surname = surname;
+            this.age = age;
+        }
+        public Student(): this("No set name", "No set surname", 0) { }
+      
     }
 }
