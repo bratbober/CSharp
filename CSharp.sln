@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_DLLTest", "014_DLLTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_JsonSerealize", "014_JsonSerealize\014_JsonSerealize.csproj", "{FF3319FC-FCE6-4590-982E-59EB369810F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_WF_Basics", "017_WF_Basics\017_WF_Basics.csproj", "{CF3A9A9F-A41B-461E-A10C-6E5EEA3D60EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_WF_Practice", "017_WF_Practice\017_WF_Practice.csproj", "{7DAA151C-819A-4D78-ABDA-D0031BCE94CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{FF3319FC-FCE6-4590-982E-59EB369810F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF3319FC-FCE6-4590-982E-59EB369810F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF3319FC-FCE6-4590-982E-59EB369810F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3A9A9F-A41B-461E-A10C-6E5EEA3D60EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3A9A9F-A41B-461E-A10C-6E5EEA3D60EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3A9A9F-A41B-461E-A10C-6E5EEA3D60EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3A9A9F-A41B-461E-A10C-6E5EEA3D60EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAA151C-819A-4D78-ABDA-D0031BCE94CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAA151C-819A-4D78-ABDA-D0031BCE94CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAA151C-819A-4D78-ABDA-D0031BCE94CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAA151C-819A-4D78-ABDA-D0031BCE94CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
